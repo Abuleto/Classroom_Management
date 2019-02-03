@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AulaPython", "AulaPython\AulaPython.pyproj", "{583BD9EC-144E-4605-A740-1C9FF70EAF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583BD9EC-144E-4605-A740-1C9FF70EAF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583BD9EC-144E-4605-A740-1C9FF70EAF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E41075-E4DE-4C9A-ADAB-315D2EF2C4D2}
+	EndGlobalSection
+EndGlobal
